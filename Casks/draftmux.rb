@@ -1,6 +1,6 @@
 cask "draftmux" do
-  version "0.3.2"
-  sha256 "7a25b9f33707eca21a555fadbe46287ccd2a6a4ce6b8c36a34979ca9b7d3facf"
+  version "0.4.0"
+  sha256 "ee53a32739f92acc431948b151aab7fc432d9064db464e7f802f7d36f66f74ed"
 
   url "https://github.com/raine/draftmux/releases/download/v#{version}/Draftmux-#{version}-arm64.dmg"
   name "Draftmux"
